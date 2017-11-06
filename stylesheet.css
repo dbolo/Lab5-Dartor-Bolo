@@ -22,6 +22,11 @@ body {
 img {
   width: 75px
   height: 75px;
-  center-right: right;
+  center-right: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+planets{
   
 }
