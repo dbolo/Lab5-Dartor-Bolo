@@ -4,7 +4,10 @@ body {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 15% 0%;
-  
+  margin-left: 10px;
+  margin-right: 10px;
+  padding : 5px;
+  background-color: #000000;
 }
 
 
